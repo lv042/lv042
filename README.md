@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Menu-Bar-Manager for macOS](https://github.com/lv042/Cocoa-Menu-Bar-Manager)
 
-- 🌱 I’m currently learning **Rust, Swift and Golang**
+- 🌱 I’m currently learning Rust, Swift and Golang
 
 - 📫 How to reach me **luca.v.kannen@gmail.com**
 
@@ -11,6 +11,6 @@
 
 - 💚 My hobbies include Bouldering, Swimming and Graphic Design
 
-- ⚡ Fun fact: **It is physically impossible for pigs to look up into the sky :)**
+- ⚡ Fun fact: It is physically impossible for pigs to look up into the sky :)
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lv042&" alt="lv042" /></p>
