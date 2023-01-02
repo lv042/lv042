@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [a Menu-Bar-Manager for macOS](https://github.com/lv042/Cocoa-Menu-Bar-Manager)
 
-- 🌱 I’m currently learning Rust, Swift and Golang
-
-- 📫 How to reach me **luca.v.kannen@gmail.com**
+- 📫 How to reach me luca.v.kannen@gmail.com
 
 - 📄 Know about my experiences [www.lv042.com](www.lv042.com)
+
+- 🌱 I’m currently learning Rust, Swift and Golang
 
 - 💚 My hobbies include Bouldering, Swimming and Graphic Design
 
