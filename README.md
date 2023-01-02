@@ -11,6 +11,4 @@
 
 - 💚 My hobbies include Bouldering, Swimming and Graphic Design
 
-- ⚡ Fun fact: It is physically impossible for pigs to look up into the sky :)
-
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lv042&" alt="lv042" /></p>
