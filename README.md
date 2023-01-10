@@ -5,7 +5,7 @@
 
 - 📫 How to reach me luca.v.kannen@gmail.com
 
-- 📄 Know about my experiences [www.lucavk.com](www.lucavk.com)
+- 📄 Know about my experiences [www.lucavk.com](https://lucavk.com/)
 
 - 🌱 I’m currently learning Rust, Swift and Golang
 
