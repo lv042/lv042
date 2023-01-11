@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Luca</h1>
 <h3>A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on [a Menu-Bar-Manager for macOS](https://github.com/lv042/Cocoa-Menu-Bar-Manager)
+- 🔭 I’m currently working on [a Server in Golang](https://github.com/lv042/Gopher-Forward-Server)
 
 - 📫 How to reach me luca.v.kannen@gmail.com
 
