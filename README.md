@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Luca+%F0%9F%91%8B;Welcome+to+my+profile!;Always+learning+new+things;Did+you+know+that+otters+hold+hands?)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [a Server in Golang](https://github.com/lv042/Gopher-Forward-Server)
+- 🔭 I’m currently working on [P2P Server in Golang](https://github.com/lv042/Gopher-Forward-Server)
 
 - 📫 How to reach me luca.v.kannen@gmail.com
 
