@@ -13,10 +13,3 @@
 - 🌱 I’m currently learning Rust, Swift and Golang
 
 - 💚 My hobbies include Bouldering, Swimming and Graphic Design
-
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lv042&" alt="lv042" /></p>
- 
- 
-
-
