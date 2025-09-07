@@ -1,5 +1,1 @@
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Luca+%F0%9F%91%8B;Welcome+to+my+profile!;Always+learning+new+things;Did+you+know+that+otters+hold+hands?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hi%2C+I'm+Luca+%F0%9F%91%8B;Welcome+to+my+profile!;Always+learning+new+things;Did+you+know+that+otters+hold+hands%3F;Did+you+know+that+bananas+are+berries%3F;Octopuses+have+three+hearts+%E2%9D%A4;I+code%2C+climb%2C+and+caffeinate+%E2%98%95)](https://git.io/typing-svg)
